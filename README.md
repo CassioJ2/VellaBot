@@ -49,4 +49,4 @@
 
 ```css
 In honor of Isabela Minucci,
-Love you bu 💛
+Love you bu 💛.
