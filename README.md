@@ -17,7 +17,7 @@
 ```
 ## Brazilian Portuguese
 
-```html
+```node
 {
   Olá, eu me chamo Cássio João e esse é meu bot de discord em Javascript!
   Tive a idéia de criar um formulário para um projeto da escola, porém achei que esse bot poderia ser uma boa idéia para se fazer.
