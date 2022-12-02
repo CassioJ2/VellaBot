@@ -20,7 +20,7 @@
 
 ```node
 {
-  Olá, eu me chamo Cássio João e esse é meu bot de discord em Javascript!
+  Olá, eu me chamo Cássio Almeida e esse é meu bot de discord em Javascript!
   Tive a idéia de criar um formulário para um projeto da escola, porém achei que esse bot poderia ser uma boa idéia para se fazer.
   Com o bot, o adm do servidor define o canal onde outros membros deverão apenas apertar no botão e um formulário do discord aparecerá. Assim, você terá de responder
   as perguntas e os adms receberão essa mensagem em uma embed. Assim eles poderão enviar a conclusão para a dm do membro.
